@@ -1,0 +1,14 @@
+org/takima/TwoPair.class
+org/takima/Card.class
+org/takima/FourOfAKind.class
+org/takima/Deck.class
+org/takima/OnePair.class
+org/takima/ThreeOfAKind.class
+org/takima/Rank.class
+org/takima/test/Test$1.class
+org/takima/utilities/CardColors.class
+org/takima/utilities/HelpingUtilities.class
+org/takima/Hand.class
+org/takima/utilities/GetHandData.class
+org/takima/utilities/CardValues.class
+org/takima/test/Test.class
